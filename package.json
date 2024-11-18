@@ -1,0 +1,51 @@
+{
+  "name": "nextris",
+  "version": "1.0.0",
+  "description": "Tetris game built with React and Next.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin4202/Nextris.git"
+  },
+  "keywords": [
+    "Tetris",
+    "React",
+    "Next"
+  ],
+  "author": "Benjamin Pruitt",
+  "dependencies": {
+    "@react-three/drei": "^9.116.3",
+    "@react-three/fiber": "^8.17.10",
+    "@types/react-dom": "18.0.11",
+    "@types/three": "^0.170.0",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-colorful": "^5.6.1",
+    "react-dom": "18.2.0",
+    "react-loading-skeleton": "^3.2.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.9.0",
+    "@types/react": "18.3.12",
+    "@types/react-color": "^3.0.12",
+    "@types/ungap__structured-clone": "^0.3.0",
+    "@ungap/structured-clone": "^1.0.2",
+    "autoprefixer": "^10.4.14",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.7",
+    "prettier-plugin-tailwindcss": "^0.2.6",
+    "tailwindcss": "^3.3.1",
+    "typescript": "5.6.3",
+    "url-loader": "^4.1.1"
+  },
+  "homepage": "https://github.com/benjamin4202/Nextris#readme"
+}
