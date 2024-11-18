@@ -2,7 +2,7 @@
 
 export default function Title() {
   return (
-    <h1 className="tetris-title mt-8 text-center font-sans text-7xl font-extrabold md:my-8 md:text-[7rem]">
+    <h1 className="tetris-title text-center font-sans text-4xl font-extrabold md:my-8 md:text-[7rem]">
       <span className="text-red-500">T</span>
       <span className="text-orange-500">E</span>
       <span className="text-yellow-500">T</span>
